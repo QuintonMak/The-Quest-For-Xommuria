@@ -1,0 +1,30 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Instructions\:\r\n\ The\ goal\ of\ the\ game\ is\ to\ defeat\ the\ dark\ wizard\ Invictus.\ The\ player\ progresses\ through\ the\ story\ by\ fighting\ various\ enemies/bosses\ \r\n\ until\ a\ final\ encounter\ with\ Invictus.\ \r\n\ Use\ the\ W\ A\ S\ D\ keys\ to\ move\ up,\ left,\ down,\ right\r\n\ Left\ click\ on\ a\ point\ to\ shoot\ the\ basic\ attack\ in\ that\ direction\r\n\ Right\ click\ on\ a\ point\ to\ shoot\ the\ special\ attack\ in\ that\ direction\r\n\ Press\ space\ to\ recover\ HP\ (green\ bar)\r\n\ Healing\ and\ special\ attack\ costs\ mana\ to\ use\ (blue\ bar)\r\n\ Mana\ will\ fully\ recharge\ when\ entering\ a\ new\ room\r\n\ The\ player\ can\ respawn\ at\ a\ checkpoint\ location\ if\ they\ have\ died\ (red\ flag)\r\n\ \r\n\ Known\ Bugs\:\r\n\ Moving\ diagonally\ is\ faster\ than\ moving\ vertically/horizontally,\ due\ to\ setLocation()\ only\ accepting\ integer\ values.\r\n\ (not\ really\ a\ bug,\ more\ of\ an\ unintended\ feature)\r\n\ There\ may\ be\ random\ flickering\ on\ the\ screen,\ I\ do\ not\ know\ if\ this\ is\ because\ of\ a\ flaw\ in\ an\ older\ version\ of\ greenfoot\ or\ my\ code.\r\n\ Laser\ has\ spawned\ in\ the\ wrong\ place\ before\r\n\ \r\n\ Credits\:\ \r\n\ Sprites\:\ \r\n\ https\://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/\r\n\ Music\:\r\n\ https\://www.youtube.com/playlist?list\=PLTuWHppokt9W2iJaxq2P_zWFHXLj2XoCh\ (All\ the\ clips\ are\ in\ the\ playlist)\r\n\ Graphics\:\r\n\ (I\ edited\ some\ of\ the\ images)\r\n\ (I\ might\ not\ have\ found\ at\ least\ one\ of\ the\ pictures,\ couldn't\ find\ the\ link)\r\n\ https\://www.pinclipart.com/picdir/middle/30-301605_black-arrow-clip-art-archery-arrow-clip-art.png\r\n\ https\://pnghunter.com/png/fire-26/\r\n\ http\://www.textures4photoshop.com/tex/isolated-objects/ring-of-fire-png-image.aspx\r\n\ https\://i.ya-webdesign.com/images/fireball-clipart.png\r\n\ https\://vignette.wikia.nocookie.net/fallout/images/a/ac/Tesla_Coil.png/revision/latest/scale-to-width-down/340?cb\=20191219161334\r\n\ https\://opengameart.org/sites/default/files/grass_14.png\r\n\ https\://www.kindpng.com/imgv/hiTxmRJ_big-game-knife-hd-png-download/\r\n\ https\://www.pngkit.com/png/detail/973-9730737_castle-wall-textures-castle-walls-png.png\r\n\ https\://www.pinclipart.com/picdir/middle/18-187351_transparent-laser-clipart-transparent-transparent-background-laser-beam.png\r\n\ https\://www.trzcacak.rs/file/max/67/671881_force-lightning-png.png\r\n\ https\://vignette.wikia.nocookie.net/elderscrolls/images/5/5f/MAGINVShockSpellArt.png/revision/latest?cb\=20120221192951\r\n\ https\://w0.pngwave.com/png/829/548/magic-book-of-shadows-spell-others-png-clip-art.png\r\n\ https\://mpng.pngfly.com/20180309/pfw/kisspng-brick-wall-black-simple-brick-wall-5aa25c69ea66c0.5263716015205899299601.jpg\r\n\ http\://pluspng.com/img-png/png-sphere-sphere-with-blender-png-393.png\r\n\ http\://www.marlborofishandgame.com/images/7/78/Flag-icon-512.png\r\n\ https\://tech4gamers.com/wp-content/uploads/2019/09/Raid-Shadow-Legends.jpg\r\n\ https\://www.mmogames.com/wp-content/uploads/2019/09/Raid-Shadow-Legends-Spider-Boss.jpg\r\n\ https\://i.redd.it/bxnhnzu7cvi21.jpg\r\n\ Code\:\r\n\ Healthbar/Manabar\ and\ Button\ code\ were\ based\ off\ Mr.Cohen's\ code\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment10.params=
+comment10.target=void\ printStats()
+comment11.params=filename
+comment11.target=void\ playMusic(java.lang.String)
+comment12.params=
+comment12.target=void\ stopMusic()
+comment13.params=
+comment13.target=boolean\ musicPlaying()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=a
+comment3.target=void\ setEnemiesAdded(boolean)
+comment4.params=
+comment4.target=void\ checkKeys()
+comment5.params=
+comment5.target=void\ checkMouse()
+comment6.params=
+comment6.target=java.lang.String\ mouseDirection()
+comment7.params=spawnCount
+comment7.target=void\ randomSpawn(int)
+comment8.params=
+comment8.target=void\ nextRoom()
+comment9.params=
+comment9.target=void\ checkRoom()
+numComments=14

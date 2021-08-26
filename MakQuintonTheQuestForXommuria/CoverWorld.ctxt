@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CoverWorld
+comment0.text=\r\n\ The\ music\ plays\ before\ the\ run\ button\ is\ clicked,\ for\ some\ reason,\ so\ this\r\n\ world\ is\ to\ solve\ that\ problem,\ as\ is\ goes\ to\ the\ title\ world\ only\ after\ run\r\n\ is\ clicked\r\n
+comment1.params=
+comment1.target=CoverWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CoverWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Box
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Box\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=width\ height\ color
+comment2.target=Box(int,\ int,\ greenfoot.Color)
+comment3.params=width\ height\ color\ speed\ transparency
+comment3.target=Box(int,\ int,\ greenfoot.Color,\ int,\ int)
+comment3.text=\r\n\ \ \ \ public\ Box(int\ width,\ int\ height,\ Color\ color,\ int\ room)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ dissapearing\ \=\ false;\r\n\ \ \ \ \ \ \ \ image\ \=\ new\ GreenfootImage(width,\ height);\r\n\ \ \ \ \ \ \ \ image.setColor(color);\r\n\ \ \ \ \ \ \ \ image.fill();\r\n\ \ \ \ \ \ \ \ this.setImage(image);\r\n\ \ \ \ \ \ \ \ this.room\ \=\ room;\r\n\ \ \ \ \ \ \ \ boundToRoom\ \=\ true;\r\n\ \ \ \ }\r\n
+comment4.params=
+comment4.target=void\ dissapear()
+numComments=5

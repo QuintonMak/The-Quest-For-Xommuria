@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Manabar
+comment1.params=
+comment1.target=void\ act()
+comment2.params=width\ height\ maxMana\ player
+comment2.target=Manabar(int,\ int,\ double,\ Hero)
+comment3.params=
+comment3.target=void\ update()
+comment4.params=change
+comment4.target=void\ changeMana(double)
+numComments=5

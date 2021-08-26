@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StillCharacter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StillCharacter\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=s
+comment2.target=StillCharacter(java.lang.String)
+comment2.text=\r\n\ \ \ \ public\ StillCharacter(String\ s,\ int\ room)//Makes\ the\ object\ "bound\ to\ a\ room"\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ super(1,\ 1,\ new\ Color(0,\ 0,\ 0,\ 0));\r\n\ \ \ \ \ \ \ \ image\ \=\ new\ GreenfootImage(s);\r\n\ \ \ \ \ \ \ \ setImage(image);\r\n\ \ \ \ \ \ \ \ this.s\ \=\ s;\r\n\ \ \ \ \ \ \ \ this.room\ \=\ room;\r\n\ \ \ \ }\r\n
+comment3.params=
+comment3.target=void\ removeSelf()
+numComments=4

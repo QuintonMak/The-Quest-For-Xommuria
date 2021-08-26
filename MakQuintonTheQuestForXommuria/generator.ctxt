@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=generator
+comment0.text=\r\n\ The\ generator\ is\ an\ "enemy"\ that\ is\ supposed\ to\ be\ destroyed\ for\ the\ end\ of\ the\ game\r\n\ As\ such,\ it\ doesn't\ do\ much\ except\ stay\ in\ place\ and\ explode\r\n
+comment1.params=h
+comment1.target=generator(Hero)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TextBox
+comment0.text=\r\nUsed\ to\ draw\ text\ on\ a\ blank\ surface\r\n
+comment1.params=length\ height
+comment1.target=TextBox(int,\ int)
+comment2.params=text\ size
+comment2.target=void\ drawText(java.lang.String,\ int)
+comment3.params=text\ size
+comment3.target=void\ drawBoldText(java.lang.String,\ int)
+comment4.params=text\ size
+comment4.target=void\ tempText(java.lang.String,\ int)
+comment5.params=
+comment5.target=void\ clear()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

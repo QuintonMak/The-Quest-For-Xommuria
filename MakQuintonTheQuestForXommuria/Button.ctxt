@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Button\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=width\ height\ text\ textSize\ xAdj
+comment1.target=Button(int,\ int,\ java.lang.String,\ int,\ int)
+comment2.params=width\ height\ fileName
+comment2.target=Button(int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ resetButton()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Healthbar
+comment1.params=
+comment1.target=void\ act()
+comment2.params=width\ height\ maxHP\ player
+comment2.target=Healthbar(int,\ int,\ double,\ Hero)
+comment3.params=width\ height\ maxHP\ enemy
+comment3.target=Healthbar(int,\ int,\ double,\ Enemy)
+comment4.params=
+comment4.target=void\ update()
+comment5.params=damage
+comment5.target=void\ changeHP(double)
+comment6.params=
+comment6.target=void\ setValues()
+numComments=7

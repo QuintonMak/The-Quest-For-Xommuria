@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Laser
+comment0.text=\r\n\ This\ class\ is\ for\ use\ in\ wizardBoss\r\n
+comment1.params=target\ direction\ x\ y
+comment1.target=Laser(Hero,\ java.lang.String,\ int,\ int)
+comment2.params=x\ y
+comment2.target=void\ setValues(int,\ int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
