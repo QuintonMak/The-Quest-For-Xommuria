@@ -37,4 +37,4 @@ The Quest For Xommuria is a game where the player embarks on an adventure to def
     - https://tech4gamers.com/wp-content/uploads/2019/09/Raid-Shadow-Legends.jpg 
     - https://www.mmogames.com/wp-content/uploads/2019/09/Raid-Shadow-Legends-Spider-Boss.jpg 
     - https://i.redd.it/bxnhnzu7cvi21.jpg 
-    Code: Healthbar/Manabar and Button code were based off my teacher, Mr.Cohen's code
+    Code: Healthbar/Manabar and Button code were based off my teacher, Mr.Cohen's code.
