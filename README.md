@@ -1,5 +1,5 @@
 # Quest-For-Xommuria
-The Quest For Xommuria is a game where the player embarks on an adventure to defend the Kingdom of Xommuria! Battle various enemies, defeat dangerous bosses, and uncover the secrets that lie ahead!
+The Quest For Xommuria is a game where the player embarks on an adventure to defend the Kingdom of Xommuria! Battle dangerous enemies, defeat powerful bosses, and uncover the secrets that lie ahead!
 # How to Run
   - Download Greenfoot from https://www.greenfoot.org/door.
   - Download the folder "MakQuintonTheQuestForXommuria" included in this repository.
