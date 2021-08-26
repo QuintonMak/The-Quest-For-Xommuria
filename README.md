@@ -1,12 +1,12 @@
 # Quest-For-Xommuria
 The Quest For Xommuria is a game where the player embarks on an adventure to defend the Kingdom of Xommuria! Battle dangerous enemies, defeat powerful bosses, and uncover the secrets that lie ahead! This game was made in Greenfoot, a Java IDE. 
 # How to Run
-  - Download Greenfoot from https://www.greenfoot.org/door.
+  - Download Greenfoot [here](https://www.greenfoot.org/door).
   - Download the folder "MakQuintonTheQuestForXommuria" included in this repository.
   - Open Greenfoot, go to Scenario --> Open --> click on the folder "MakQuintonTheQuestForXommuria".
   - Click the "Run" button to begin.
 
-  Alternatively, play the game (without music) at https://www.greenfoot.org/scenarios/25228
+  Alternatively, play the game (without music) [here](https://www.greenfoot.org/scenarios/25228).
 
 # Instructions:
   - Use the W A S D keys to move up, left, down, right.
